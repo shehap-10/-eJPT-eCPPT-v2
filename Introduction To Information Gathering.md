@@ -43,7 +43,8 @@
 3. **[fierce](https://github.com/mschwager/fierce)**:  is a reconnaissance tool for locating non-contiguous IP space. discovering subdomains, IP ranges, and DNS servers using a wordlist and Google. Example: `fierce --domain google.com --subdomains accounts admin ads`
 - host Discover
     - Netdiscover is a tool for finding online hosts on a network by sending or sniffing ARP requests. Example: **`netdiscover -r 192.168.1.0/24`**
-    - @shahap-10 | @cyberhub | [INE](https://my.ine.com/)
+  --------------------------------------------
+ @shahap-10 | @cyberhub | [INE](https://my.ine.com/)
     
     ### Nmap
     
