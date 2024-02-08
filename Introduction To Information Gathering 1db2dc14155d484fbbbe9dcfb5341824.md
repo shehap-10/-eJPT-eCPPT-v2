@@ -41,7 +41,6 @@
 1. **[dnsenum](https://github.com/fwaeytens/dnsenum)**: A Perl script for DNS reconnaissance tasks such as querying DNS records, attempting zone transfer attacks, performing subdomain enumeration, and gathering WHOIS information.
 2. **dig**: A command-line tool for DNS queries, displaying results in a readable format. Example: **`dig example.com`**.
 3. **[fierce](https://github.com/mschwager/fierce)**:  is a reconnaissance tool for locating non-contiguous IP space. discovering subdomains, IP ranges, and DNS servers using a wordlist and Google. Example: `fierce --domain google.com --subdomains accounts admin ads`
-- 
 - host Discover
     - Netdiscover is a tool for finding online hosts on a network by sending or sniffing ARP requests. Example: **`netdiscover -r 192.168.1.0/24`**
     
