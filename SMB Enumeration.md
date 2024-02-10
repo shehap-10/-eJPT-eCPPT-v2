@@ -92,6 +92,10 @@ smbmap -H 10.0.28.123 -u Administrator -p 'smbserver_771' -d . -x **-x 'ipconfig
     - `**enum4linux -o 192.144.106.3**`
 - Pulls usernames from the default RID range (500-550,1000-1050).
     - `**enum4linux -r -u "admin" -p "password1" 192.212.251.3**`
+-  List all available shares on  the samba server using enum4Linu
+      - `enum4linux -G 192.144.106.3`
+- Is samba server configured for printing?
+      -`-i` 
 
 ### [rpcclient](https://book.hacktricks.xyz/network-services-pentesting/pentesting-smb/rpcclient-enumeration)
 
